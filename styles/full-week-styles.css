@@ -5,5 +5,15 @@ img {
     border-radius: 100px; /*Used to make the image circular*/
 }
 
+/* ol {
+    list-style: none;
+} */
+
+li {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
 
 
