@@ -1,3 +1,6 @@
+.full-week-header {
+    font-size: 62px;
+}
 
 img {
     height: 200px;
@@ -5,15 +8,25 @@ img {
     border-radius: 100px; /*Used to make the image circular*/
 }
 
-/* ol {
+ol {
     list-style: none;
-} */
+}
 
 li {
     font-family: sans-serif;
     color: white;
     font-size: 20px;
 }
+
+h2 {
+    font-family: 'Arima', cursive;
+    color: rgb(248, 138, 211);
+}
+
+main p {
+    margin: 12px;
+}
+
 
 
 
