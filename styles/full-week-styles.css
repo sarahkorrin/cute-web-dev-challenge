@@ -16,11 +16,19 @@ li {
     font-family: sans-serif;
     color: white;
     font-size: 20px;
+    width: 800px;
+    margin: 72px auto 72px auto;
+    background-color: rgb(253, 199, 222);
+    padding: 24px;
+    border: 5px solid rgb(247, 168, 208);
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgb(248, 142, 192);
 }
 
 h2 {
     font-family: 'Arima', cursive;
     color: rgb(248, 138, 211);
+    margin: auto;
 }
 
 main p {
