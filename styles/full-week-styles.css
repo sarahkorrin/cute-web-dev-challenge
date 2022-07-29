@@ -10,19 +10,23 @@ img {
 
 ol {
     list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+    width: 800px;
 }
 
 li {
     font-family: sans-serif;
     color: white;
     font-size: 20px;
-    width: 800px;
-    margin: 72px auto 72px auto;
+    margin: 32px 32px 70px 32px;
     background-color: rgb(253, 199, 222);
-    padding: 24px;
+    padding: 16px;
     border: 5px solid rgb(247, 168, 208);
     border-radius: 8px;
     box-shadow: 1px 2px 8px rgb(248, 142, 192);
+    text-align: center;
 }
 
 h2 {
@@ -31,7 +35,7 @@ h2 {
     margin: auto;
 }
 
-main p {
+main {
     margin: 12px;
 }
 
